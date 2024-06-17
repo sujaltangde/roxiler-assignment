@@ -12,7 +12,7 @@ To get started with the assignment project, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/sujaltangde/assignment_roxiler.git
+    git clone https://github.com/sujaltangde/roxiler-assignment.git
     ```
 
 2. Change into the frontend directory:
